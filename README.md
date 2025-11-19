@@ -25,3 +25,20 @@ Product performance metrics
 Sales trends & KPIs
 
 Create scalable, reusable SQL scripts for analysis and reporting
+
+👤 About Me
+
+Hi! I’m Mohamed Ashraf, a Business & Data Analyst passionate about transforming data into actionable insights.
+I have hands-on experience in:
+
+SQL, Excel, and Power BI
+
+Data cleaning, modeling, and visualization
+
+Marketing analytics & business reporting
+
+Building analytics projects from scratch
+
+I’m continuously improving my skills in data analytics, and I enjoy working on real projects that solve real problems.
+
+If you'd like to connect or collaborate, feel free to reach out!
